@@ -19,5 +19,29 @@ Go to https://github.com/Tavex-Bots/Food-Dash/releases/ and download the latest 
 Your support keeps us going! Thanks!
 
 # Credits
-Credits soon
+Created By Max & Tavish
+Developed By Max & Tavish
+## Tavex Bots
+### Owners
+Max
+<br />
+Tavish
+### Head Of Support
+Tavish
+### Head Developer
+Max
+### Developers
+Max
+<br />
+Tavish
+## Our Sponsors
+Low IQ Studios
+<br />
+Tavex Games
+## Special Thanks
+All Tavex Members
+<br />
+Our Families
+### Thanks to everyone who worked on the project.
+
 
