@@ -1,6 +1,7 @@
 # Food-Dash
-## The new food ordeing system
+## The new food ordering system
 <br />
 <br />
-Lets go
+
+:)
 
