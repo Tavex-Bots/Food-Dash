@@ -3,7 +3,8 @@
 <br />
 <br />
 
-Full edition coming soon!
+## About
+Our dev's spent a long time inside during lockdown and we realised how hard it is for some people. So we came up with foodDASH. A new way to order food!
 
 ## Where's The Mac Edition?
 Curently we are working hard on a mac rellease. Since windows is the most used OS we have decided to start with that. Our members have much better knowledge with C and C# than other stuff. (And how can we get this to work with python anyway?)
