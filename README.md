@@ -43,5 +43,3 @@ All Tavex Members
 <br />
 Our Families
 ### Thanks to everyone who worked on the project.
-
-
