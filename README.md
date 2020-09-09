@@ -4,7 +4,7 @@
 <br />
 
 ## About
-Our dev's spent a long time inside during lockdown and we realised how hard it is for some people. So we came up with foodDASH. A new way to order food!
+Our dev's spent a long time inside during lockdown and we realised how hard it is for some people. So we came up with foodDASH. A new way to order food! Using ethier our web app, desktop app or even our mobile app you can esaly order food! Enjoy!
 
 ## Where's The Mac Edition?
 Curently we are working hard on a mac rellease. Since windows is the most used OS we have decided to start with that. Our members have much better knowledge with C and C# than other stuff. (And how can we get this to work with python anyway?)
